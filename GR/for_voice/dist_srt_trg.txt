@@ -1,0 +1,4 @@
+average of src.\data\spk_test\SF1 to trgSF1 = 6.966250774977418, varriance of src.\data\spk_test\SF1 to trgSF1 = 1.9974372166205894max = 12.001360943696573 min = 2.794841971507753
+average of src.\data\spk_test\SF2 to trgSF2 = 6.8299759425586775, varriance of src.\data\spk_test\SF2 to trgSF2 = 1.6869430431351813max = 10.271678366067166 min = 3.7680787433380205
+average of src.\data\spk_test\TM1 to trgTM1 = 7.594614485501283, varriance of src.\data\spk_test\TM1 to trgTM1 = 1.7572592766218937max = 10.305663636426758 min = 5.266506172176938
+average of src.\data\spk_test\TM2 to trgTM2 = 5.885268457452654, varriance of src.\data\spk_test\TM2 to trgTM2 = 1.1763955403271507max = 8.15085299302648 min = 3.739672016346631

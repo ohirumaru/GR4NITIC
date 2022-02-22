@@ -1,0 +1,6 @@
+average of .\data\spk\SF1 to .\data\spk\SF2 = 5.5069007757121895, varriance of .\data\spk\SF1 to .\data\spk\SF2 = 0.7612944880291423
+average of .\data\spk\SF1 to .\data\spk\TM1 = 6.398802968108296, varriance of .\data\spk\SF1 to .\data\spk\TM1 = 0.8745466655037619
+average of .\data\spk\SF1 to .\data\spk\TM2 = 5.462476641085901, varriance of .\data\spk\SF1 to .\data\spk\TM2 = 0.7842067310098703
+average of .\data\spk\SF2 to .\data\spk\TM1 = 6.688547444532836, varriance of .\data\spk\SF2 to .\data\spk\TM1 = 0.9842097124612732
+average of .\data\spk\SF2 to .\data\spk\TM2 = 5.735685949475017, varriance of .\data\spk\SF2 to .\data\spk\TM2 = 1.0858678261630288
+average of .\data\spk\TM1 to .\data\spk\TM2 = 5.040455096490242, varriance of .\data\spk\TM1 to .\data\spk\TM2 = 0.9323190233323148

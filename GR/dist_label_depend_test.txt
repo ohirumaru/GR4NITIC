@@ -1,0 +1,1 @@
+average of SF1 to SF2 = nan, varriance of SF1 to SF2 = nan
